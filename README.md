@@ -10,3 +10,5 @@ Dans le dossier api en faisant un "npm run develop" le backend Strapi se lancera
 ## **Tester le système de paiement Stripe**
 Il est possible en localhost de tester le système de paiement et de voir qu'il est correctement enregistré dans la base de donnée en utilsant la carte de test fournie par Stripe. Il suffit de rentrer une série de 4 et de 2.
 
+## **URL du site**
+casehub-site.vercel.app
