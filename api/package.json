@@ -12,9 +12,11 @@
   "dependencies": {
     "@strapi/plugin-i18n": "4.9.0",
     "@strapi/plugin-users-permissions": "4.9.0",
+    "@strapi/provider-upload-aws-s3": "^4.10.2",
     "@strapi/strapi": "4.9.0",
     "mysql": "2.18.1",
     "pg": "^8.10.0",
+    "pg-connection-string": "^2.5.0",
     "react-auth-context": "^0.0.2",
     "stripe": "^11.17.0"
   },
