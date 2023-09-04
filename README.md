@@ -6,7 +6,7 @@ Ensuite se positionner, toujours via le terminal, dans le dossier api et effectu
 
 **Depuis le terminal**
 Dans le dossier client en faisant un "npm start" le site sera lancé en localhost.
-Dans le dossier api en faisant un "npm run develop" le backend Strapi se lancera en localhost, il faudra se connecter au compte associé à la clé rentrée (le notre, accès disponibles dans le cahier des charges) afin d'accéder à la base de donnée. Codes Strapi : mathis.laversin92@gmail.com STRAPIppe92!
+Dans le dossier api en faisant un "npm run develop" le backend Strapi se lancera en localhost, il faudra se connecter au compte associé à la clé rentrée (le notre, accès disponibles dans le cahier des charges) afin d'accéder à la base de donnée. Codes Strapi : 
 
 ## **Tester le système de paiement Stripe**
 Il est possible en localhost de tester le système de paiement et de voir qu'il est correctement enregistré dans la base de donnée en utilsant la carte de test fournie par Stripe. Il suffit de rentrer une série de 4 et de 2.
